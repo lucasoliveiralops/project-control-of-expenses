@@ -17,9 +17,10 @@ Rotas Autenticados terão o seguinte icon :lock:
 Icones: 
 - :lock: Rotas Autenticadas 
 - :house: Rotas que não são necessárias autenticação
-    - :house: Autenticação
-      - [:house: `Logar com Token`](./docs/v1/Auth/generateToken.md)
-    - :lock: Despesas 
+  
+- :house: Autenticação
+    - [:house: `Logar com Token`](./docs/v1/Auth/generateToken.md)
+- :lock: Despesas 
      - [:lock: `Exibir Todas Despesas`](./docs/v1/Expenses/index.md)
      - [:lock: `Exibir uma despesa em específico`](./docs/v1/Expenses/show.md)
      - [:lock: `Cadastrar Despesas`](./docs/v1/Expenses/create.md)
